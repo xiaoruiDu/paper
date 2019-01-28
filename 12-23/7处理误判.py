@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 from math import sqrt
 
-
+###
 
 IDflag = 0
 
